@@ -1,0 +1,10 @@
+{
+    "method": "get",
+    "url": "https://httpbin.org/get",
+    "params": {
+        "param1": 1
+    },
+    "json": {},
+    "headers": {},
+    "cookies": {}
+}
